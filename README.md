@@ -7,3 +7,7 @@ Ver 1:
 After soem research, I found that the simplest way to change the inage uis by turning the image’s pixel bytes directly into raw audio sample values, plays them as sound, then reverses the mapping to turn the exact same numbers back into the image
 
 So far I have found a way to make the image a loooong line of numbers of bits.
+
+<img width="388" height="170" alt="image" src="https://github.com/user-attachments/assets/834e75cb-83db-47db-8376-e2768a4140c5" />
+
+So far what I have mstered up granted its really compact
