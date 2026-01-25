@@ -14,3 +14,15 @@ So far what I have mustered up granted it's really compact
 Ver 2:
 
 Added a auto open of the banana file, reduced code lines through some yt tutorials and placed all files in a auto generated folder!
+
+Ver 3:
+
+Added together the decoding and encoding.py files into one for easier access.
+
+Ver 4 : (FINAL FOR NOW)
+
+I kept gettign errors in my krnl for windows when i realised that the libraries that I was using were exclusive to C, so i swapped out some libraries so it would work for windows too, also merged the installer.py into the main.py just for easier access. Last but not least, I found a way to extract only the red, green and blue aspects of the image via some fancy transformations, and it also saves them into the same file!
+
+
+
+
