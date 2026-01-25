@@ -24,5 +24,8 @@ Ver 4 : (FINAL FOR NOW)
 I kept gettign errors in my krnl for windows when i realised that the libraries that I was using were exclusive to C, so i swapped out some libraries so it would work for windows too, also merged the installer.py into the main.py just for easier access. Last but not least, I found a way to extract only the red, green and blue aspects of the image via some fancy transformations, and it also saves them into the same file!
 
 
+Ver 5: (FINAL FINAL)
 
+Made it so the .wav file auto plays too
 
+<img width="448" height="155" alt="image" src="https://github.com/user-attachments/assets/aeb243e0-93ce-499f-bbe9-0536cb3490f7" />
