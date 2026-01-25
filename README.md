@@ -2,9 +2,10 @@
 A submission into wacky files that converts the image into a .wav audio file and then back again
 
 ### The program takes an image and converts its raw pixel values directly into audio samples, saving them as a WAV file.
-### That WAV file is played, but it also permanently contains all the image data.
-### The program then reads the WAV back from disk and converts the audio samples back into pixel values.
-### From that decoded data it reconstructs the full image and also outputs separate red, green, and blue versions.
+
+That WAV file is played, but it also permanently contains all the image data.
+The program then reads the WAV back from disk and converts the audio samples back into pixel values.
+From that decoded data it reconstructs the full image and also outputs separate red, green, and blue versions.
 
 
 Ver 1:
